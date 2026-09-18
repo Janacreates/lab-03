@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Janapriya Prathap Gajalakshmi >`
-- **CCID:** `<prathapg>`
+- **Full Name:** `Janapriya Prathap Gajalakshmi `
+- **CCID:** `prathapg`
 
 ## References and Resources
 
